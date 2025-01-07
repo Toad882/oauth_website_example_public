@@ -1,4 +1,3 @@
-```markdown
 # OAuth Website Example
 
 This project is an example of a website that uses Authify for user authentication and authorization. The website uses OAuth2 to authenticate users and authorize them to log in.
@@ -58,4 +57,3 @@ This project is an example of a website that uses Authify for user authenticatio
 ## License
 
 This project is licensed under the GPL-3.0 License.
-```
