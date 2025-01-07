@@ -6,7 +6,6 @@ This project is an example of a website that uses Authify for user authenticatio
 ## Features
 
 - User authentication with OAuth2
-- Secure session management
 - Fetching user profile information from the Identity Provider (IDP)
 - User login and logout functionality
 
@@ -18,8 +17,8 @@ This project is an example of a website that uses Authify for user authenticatio
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Toad882/oauth_website_example.git
-    cd oauth_website_example
+    git clone https://github.com/Toad882/oauth_website_example_public.git
+    cd oauth_website_example_public
     ```
 
 2. Create a virtual environment and activate it:
